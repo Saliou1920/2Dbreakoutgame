@@ -1,4 +1,4 @@
-var game = new Phaser.Game(480, 320, Phaser.CANVAS, null, {
+var game = new Phaser.Game(480, 300, Phaser.CANVAS, null, {
     preload: preload, create: create, update: update
   });
 var ball;
